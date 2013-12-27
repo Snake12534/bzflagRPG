@@ -8,10 +8,10 @@ Basically, in Bzflag's first RPG map, there are 10 battlefields (maps where you 
 
 Finish by Jan 31, 2014
 
-1) Make 1/10 maps for the battlefield - done
-2) Gather a team of dedicated programmers (please pm me, would appreciate) - not finish
-3) store data for each shoot successful - not finish
-4) Find a way to show that data through slash command - not finish
-5) create a save plugin to save players data - not finish
+1) Make 1/10 maps for the battlefield - done \n
+2) Gather a team of dedicated programmers (please pm me, would appreciate) - not finish \n
+3) store data for each shoot successful - not finish \n
+4) Find a way to show that data through slash command - not finish \n
+5) create a save plugin to save players data - not finish \n
 
 -Snake12534 comment below 
