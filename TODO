@@ -2,3 +2,13 @@ Here is the goal thinking like a BZFlag Player:
 
 Create a plug - in so that when a tank hits another tank with a regular bullet (No Flag) you will then gain
 Gold. With this gold, you can then buy a 'special' item that will be useful to you or the player.
+
+Here is the goal thinking like a programmer:
+
+Create one or a few plug - ins so that when a tank hits another tank with a regular bullet (No Flag) you will gain
+virtual data known as "Gold." This "Gold" will be stored as Data. Since BZFlag can not support GUI,
+the user may enter a slash command to access this data, aka "Gold." The user can also type a slash command
+that will be the "Shop." In the Shop, the user can buy a 'special' item (The special item is very limited
+due to BZFlag's requirements) that will increase the tank's mobility or strength. During this process,
+the user will lose some of their data but will pernamently have a flag. What could be more interesting is an
+equip and deequip button within the 'special' item.
